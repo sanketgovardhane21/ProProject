@@ -1,1 +1,1 @@
-"# Mern-Auth" 
+"# Mern-Auth-App" 
